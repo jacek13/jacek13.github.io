@@ -1,0 +1,74 @@
+{
+   "categories":[
+      {
+         "name":"First category",
+         "questions":[
+            {
+               "question":"Select best programming language.",
+               "answers":[
+                  "C",
+                  "C++",
+                  "C#",
+                  "Python"
+               ],
+               "values":[
+                  true,
+                  true,
+                  true,
+                  false
+               ]
+            },
+            {
+               "question":"Select fastest programming language",
+               "answers":[
+                  "Java",
+                  "C#",
+                  "C",
+                  "Python"
+               ],
+               "values":[
+                  false,
+                  false,
+                  true,
+                  false
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Second category",
+         "questions":[
+            {
+               "question":"Select slowest programming language.",
+               "answers":[
+                  "Java",
+                  "C++",
+                  "C#",
+                  "C"
+               ],
+               "values":[
+                  true,
+                  false,
+                  false,
+                  false
+               ]
+            },
+            {
+               "question":"What SIMD means?",
+               "answers":[
+                  "Single instrument multiple data",
+                  "Single instruction multiple data",
+                  "Single instruction multiple documents",
+                  "Single instuction multiple doubles"
+               ],
+               "values":[
+                  false,
+                  true,
+                  false,
+                  false
+               ]
+            }
+         ]
+      }
+   ]
+}
